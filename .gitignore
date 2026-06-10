@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+*env/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Distribution files
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
